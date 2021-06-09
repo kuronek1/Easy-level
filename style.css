@@ -1,0 +1,56 @@
+body{
+    margin: 20px;
+    background: rgb(139, 178, 190);
+}
+
+.nav {
+    color: chartreuse;
+    text-align: left;
+}
+
+h1, header {
+    text-align: center;
+}
+.nav a,.nav_down a {
+    color: rgb(38, 0, 100);
+    text-decoration: none;
+    border: double 5px rgb(28, 255, 20);
+    margin: 0 50px ;
+    
+}
+
+#photo {
+    height: 500px;
+}
+
+.list_facts {
+    text-align: center;
+}
+.facts_header {
+    display:block;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+    border:dashed 3px rgb(32, 64, 124);
+    border-radius: 30px;
+}
+
+#list1 {
+    display: inline-block;
+    text-align: left;
+    margin-right: 100px;
+}
+#list2 {
+    display: inline-block;
+    text-align: left;
+    margin-right: 100px;
+}
+.nav_down {
+    color: chartreuse;
+    text-align: center;
+}
+
+footer {
+    margin-top: 250px;
+    text-align: center;
+}
